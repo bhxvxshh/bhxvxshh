@@ -48,18 +48,6 @@ I am a tech enthusiast with a knack for problem-solving and building innovative 
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F88D2A?style=for-the-badge&logo=lucidchart&logoColor=white)
 
 ---
----
-
-## 🚀 GitHub Stats  
-📊 **GitHub Contributions:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhxvxshh&theme=react)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhxvxshh&show_icons=true&theme=react)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhxvxshh&layout=compact&theme=react)  
-
-📈 **GitHub Activity Graph:**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhxvxshh&theme=react-dark)  
-
----
 
 ## 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavesh_P-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavesh-puranam-087593343/)  
