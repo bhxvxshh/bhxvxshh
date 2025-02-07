@@ -5,18 +5,6 @@ I am a tech enthusiast with a knack for problem-solving and building innovative 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+%26+ML+Enthusiast;Data+Engineer+%7C+Problem+Solver;Web+Developer+%7C+Tech+Explorer)
 
----
-
-## 🚀 GitHub Stats  
-📊 **GitHub Contributions:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhxvxshh&theme=react)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhxvxshh&show_icons=true&theme=react)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhxvxshh&layout=compact&theme=react)  
-
-📈 **GitHub Activity Graph:**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhxvxshh&theme=react-dark)  
-
----
 
 ## 💻 Tech Stack  
 
@@ -58,6 +46,18 @@ I am a tech enthusiast with a knack for problem-solving and building innovative 
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F88D2A?style=for-the-badge&logo=lucidchart&logoColor=white)
+
+---
+---
+
+## 🚀 GitHub Stats  
+📊 **GitHub Contributions:**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhxvxshh&theme=react)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhxvxshh&show_icons=true&theme=react)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhxvxshh&layout=compact&theme=react)  
+
+📈 **GitHub Activity Graph:**  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhxvxshh&theme=react-dark)  
 
 ---
 
