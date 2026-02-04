@@ -1,7 +1,6 @@
 # 👋 About Me  
 
-Hi there! I'm **Bhavesh P**, a passionate **B.Tech Computer Science and Engineering** student at **SRM Institute of Science and Technology**, specializing in **Artificial Intelligence and Machine Learning**.  
-I am a tech enthusiast with a knack for problem-solving and building innovative solutions.  
+a tech enthusiast with a knack for problem-solving and building innovative solutions.  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+%26+ML+Enthusiast;Data+Engineer+%7C+Problem+Solver;Web+Developer+%7C+Tech+Explorer)
 
