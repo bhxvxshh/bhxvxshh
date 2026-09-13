@@ -26,6 +26,7 @@ Status:    Actively shipping side projects & open to collaboration
 
 <h2 align="left">💻 Tech Stack</h2>
 
+<h4 align="left">Languages</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00FF41"/>
@@ -33,28 +34,50 @@ Status:    Actively shipping side projects & open to collaboration
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41"/>
 </p>
 
+<h4 align="left">AI / ML & LLMs</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Knowledge_Graphs-000000?style=for-the-badge&logoColor=00FF41"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Graph_Neural_Networks-000000?style=for-the-badge&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-000000?style=for-the-badge&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Stable--Baselines3-000000?style=for-the-badge&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=00FF41"/>
+</p>
+
+<h4 align="left">Backend, Web & Mobile</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF41"/>
 </p>
 
+<h4 align="left">Embedded, Signals & Data</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Sensor_Fusion-000000?style=for-the-badge&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/TCN_%2B_Attention-000000?style=for-the-badge&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=00FF41"/>
 </p>
 
+<h4 align="left">Tools & Infra</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00FF41"/>
 </p>
 
 <br>
@@ -101,7 +124,7 @@ Status:    Actively shipping side projects & open to collaboration
 <h2 align="left">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhxvxshh&theme=matrix&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhxvxshh&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=00ff41&hide_border=true" />
 </div>
 
 <br>
