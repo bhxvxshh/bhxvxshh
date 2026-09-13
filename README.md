@@ -1,58 +1,122 @@
-# 👋 About Me  
+<div align="center">
 
-a tech enthusiast with a knack for problem-solving and building innovative solutions.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00ff41&height=200&section=header&text=BHAVESH%20PURANAM&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Wake%20up,%20Neo...&descAlignY=55&descSize=18" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+%26+ML+Enthusiast;Data+Engineer+%7C+Problem+Solver;Web+Developer+%7C+Tech+Explorer)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=System.out.println(%22Hello+World%22);;Building+AI+%2B+ML+powered+solutions;Turning+coffee+into+code+%E2%98%95;Currently+exploring+LLMs+%26+Data+Engineering" alt="Typing SVG" />
+</a>
 
+</div>
 
-## 💻 Tech Stack  
+<br>
 
-### 🌟 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+```bash
+> whoami
+```
 
-### 📚 Frameworks & Libraries  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+```yaml
+Name:      Bhavesh Puranam
+Location:  Chennai, India
+Role:      Software Developer | AI & ML Enthusiast
+Focus:     Building intelligent, data-driven applications
+Status:    Actively shipping side projects & open to collaboration
+```
 
-### 📊 Data Science & Machine Learning  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<br>
 
-### 🛠️ Data Engineering & Processing  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![RoboFlow](https://img.shields.io/badge/RoboFlow-000000?style=for-the-badge&logo=roboflow&logoColor=white)
-![LabelImg](https://img.shields.io/badge/LabelImg-FFA500?style=for-the-badge&logo=labelimg&logoColor=white)
-![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-FF5733?style=for-the-badge&logo=data&logoColor=white)
-![Data Labeling](https://img.shields.io/badge/Data_Labeling-2E8B57?style=for-the-badge&logo=databricks&logoColor=white)
+<h2 align="left">💻 Tech Stack</h2>
 
-### 🔧 Development & Collaboration Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41"/>
+</p>
 
-### 🖋️ Office & Design Tools  
-![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-F88D2A?style=for-the-badge&logo=lucidchart&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00FF41"/>
+</p>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=00FF41"/>
+</p>
 
-## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavesh_P-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavesh-puranam-087593343/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Bhavesh_P-181717?style=for-the-badge&logo=github)](https://github.com/bhxvxshh)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Bhavesh_P-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/bhxvxshh)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41"/>
+</p>
 
----
+<br>
 
-🚀 **Let's build something amazing together!**
+<h2 align="left">🗂️ Featured Builds</h2>
+
+<div align="center">
+
+<a href="https://github.com/bhxvxshh/PromptQuest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhxvxshh&repo=PromptQuest&theme=dark&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14&icon_color=00ff41&border_color=00ff41" />
+</a>
+<a href="https://github.com/bhxvxshh/DocChat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhxvxshh&repo=DocChat&theme=dark&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14&icon_color=00ff41&border_color=00ff41" />
+</a>
+<br>
+<a href="https://github.com/bhxvxshh/SmartSpending">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhxvxshh&repo=SmartSpending&theme=dark&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14&icon_color=00ff41&border_color=00ff41" />
+</a>
+<a href="https://github.com/bhxvxshh/GradeGuard-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhxvxshh&repo=GradeGuard-&theme=dark&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14&icon_color=00ff41&border_color=00ff41" />
+</a>
+
+</div>
+
+<br>
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bhxvxshh&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14&icon_color=00ff41&border_color=00ff41&hide_border=false"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhxvxshh&layout=compact&theme=dark&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14&border_color=00ff41&hide_border=false"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhxvxshh&theme=dark&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&border=00ff41"/>
+
+</div>
+
+<h2 align="left">🏆 Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhxvxshh&theme=matrix&no-frame=true&margin-w=10&row=1" />
+</div>
+
+<h2 align="left">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhxvxshh&theme=matrix&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&hide_border=true" />
+</div>
+
+<br>
+
+<h2 align="left">📡 Connect</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bhavesh-puranam/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+  </a>
+  <a href="https://github.com/bhxvxshh">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d0d0d&height=100&section=footer"/>
+
+</div>
